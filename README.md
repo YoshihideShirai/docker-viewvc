@@ -1,6 +1,6 @@
-# ViewVC 1.2.1 or later (nginx + fcgiwrap) on debian:bullseye
+# ViewVC 1.2.1 or later (nginx + fcgiwrap) on debian
 
-This is a very lean docker image for https://github.com/viewvc/viewvc/ which is based on debian:bullseye-slim.
+This is a very lean docker image for https://github.com/viewvc/viewvc/ which is based on debian:xxx-slim.
 
 The web-server runs on port 80.
 
