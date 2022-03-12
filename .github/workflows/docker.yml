@@ -33,4 +33,4 @@ jobs:
           tags: ${{ secrets.DOCKER_USERNAME }}/viewvc:1.2.1
           build-args: |
             VIEWVC_REFS=tags
-            VIEWVC_VERSION=2.6.1
+            VIEWVC_VERSION=1.2.1
